@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ayush\Documents\Multiple_Disease_Prediction\multiple-disease-prediction-streamlit-app-main\app.py"
